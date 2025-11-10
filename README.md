@@ -9,6 +9,6 @@ A command-line game where you explore a simulated Linux filesystem and solve hac
 
 ## Try it locally
 ---bash
-Step 1: (git clone https://github.com/Ban5hee-GH/FileSystem-CTF.git)
-Step 2: (cd FileSystemCTF)
-Step 3: (python cli_lab/main.py)
+- Step 1: (git clone https://github.com/Ban5hee-GH/FileSystem-CTF.git)
+- Step 2: (cd FileSystemCTF)
+- Step 3: (python cli_lab/main.py)
