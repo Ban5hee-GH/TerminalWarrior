@@ -26,12 +26,12 @@ def main_menu():
                     if level3_searching.run_level(): 
                         if level4_networking.run_level():
                             if level5_cryptography.run_level()
-                                    clear_screen()
-                                    print("\n\n")
-                                    print("*" * 50)
-                                    print("MISSION COMPLETE! WINDOWS CAMPAIGN ACHEIVED")
-                                    print("*" * 50)
-                                    input()
+                                clear_screen()
+                                print("\n\n")
+                                print("*" * 50)
+                                print("MISSION COMPLETE! WINDOWS CAMPAIGN ACHEIVED")
+                                print("*" * 50)
+                                input()
             return 
         elif choice == "2":
             print("System Disconnected.")
@@ -39,3 +39,4 @@ def main_menu():
                      
 if __name__ == "__main__":
     main_menu()                     
+
