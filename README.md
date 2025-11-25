@@ -26,9 +26,9 @@ A containersized command-line cybersecurity challenge built in Python, simulatin
 ### 🪟 Windows Terminal Levels:
 - |*1*| Intro challenge | Navigate folders and uncover hidden files | Basic Window commands ('dir', 'cd', 'type', 'cls', 'echo') |
 - |*2*| Permissions & Ownership | View and edit file rights | 'icals', 'attrib', 'takeown' |
-- |*3*| Searching the System *(COMING SOON)*| Hunt for hiden files and read logs | 'findstr', 'where', 'tree' |
-- |*4*| Networking Challenge *(COMING SOON)*| Scan the network and check services | 'ping', 'tracert' 'netstat', 'curl', 'ipconfig' |
-- |*5*| Ctryptography & Decoding *(COMING SOON)*| Decode messages and inspect hashes | base64, certutil, simple ciphers |
+- |*3*| Searching the System | Hunt for hiden files and read logs | 'findstr', 'where', 'tree' |
+- |*4*| Networking Challenge | Scan the network and check services | 'ping', 'tracert' 'netstat', 'curl', 'ipconfig' |
+- |*5*| Ctryptography & Decoding | Decode messages and inspect hashes | base64, certutil, simple ciphers |
 
 ## Installation & Setup
 
