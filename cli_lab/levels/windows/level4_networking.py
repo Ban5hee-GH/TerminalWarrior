@@ -1,6 +1,14 @@
 # FILE: level4_networking.py
 import time
-from utils import clear_screen, print_header, print_objectives, print_success, generic_cmd_handler, CURRENT_DIR
+from .utils import (
+    clear_screen,
+    print_header,
+    print_objectives,
+    print_success,
+    generic_cmd_handler,
+    CURRENT_DIR,
+)
+
 
 TARGET_IP = "172.16.1.50"
 SERVICE_PORT = "8080"

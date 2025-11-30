@@ -1,6 +1,14 @@
 # FILE: level5_cryptography.py
 import time
-from utils import clear_screen, print_header, print_objectives, print_success, generic_cmd_handler, CURRENT_DIR
+from .utils import (
+    clear_screen,
+    print_header,
+    print_objectives,
+    print_success,
+    generic_cmd_handler,
+    CURRENT_DIR,
+)
+
 
 # This is 'FINAL_FLAG:WINDOWS_MASTER_HACKER' encoded in Base64
 ENCODED_FLAG = "RklOQUxfRkxBRzpXSU5ET1dTX01BU1RFUl9IQUNLRVI="

@@ -1,6 +1,14 @@
 # FILE: level2_permissions.py (REVISED)
 import time
-from utils import clear_screen, print_header, print_objectives, print_success, generic_cmd_handler, CURRENT_DIR
+from .utils import (
+    clear_screen,
+    print_header,
+    print_objectives,
+    print_success,
+    generic_cmd_handler,
+    CURRENT_DIR,
+)
+
 
 def run_level():
     title = "LEVEL 2: PERMISSIONS & OWNERSHIP"

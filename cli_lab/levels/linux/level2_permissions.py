@@ -37,7 +37,7 @@ def main():
     ip_parts = [str(random.randint(1, 254)) for _ in range(4)]
     ip_address = ".".join(ip_parts)
 
-    print("\nWelcome to the Linux CLI Flag challenge LEVEL 2 (Permissions) made by (Ban5hee)\n")
+    print("\nWelcome to the Linux CLI Flag challenge LEVEL 2 (Permissions) made by (Fr4nc0eur)\n")
     input("Press Enter to continue...")
     print()
 

@@ -28,7 +28,7 @@ A containersized command-line cybersecurity challenge built in Python, simulatin
 - |*2*| Permissions & Ownership | View and edit file rights | 'icals', 'attrib', 'takeown' |
 - |*3*| Searching the System | Hunt for hiden files and read logs | 'findstr', 'where', 'tree' |
 - |*4*| Networking Challenge | Scan the network and check services | 'ping', 'tracert' 'netstat', 'curl', 'ipconfig' |
-- |*5*| Ctryptography & Decoding | Decode messages and inspect hashes | base64, certutil, simple ciphers |
+- |*5*| Cryptography & Decoding | Decode messages and inspect hashes | base64, certutil, simple ciphers |
 
 ## Installation & Setup
 

@@ -1,6 +1,14 @@
 # FILE: level3_searching.py (NEW FILE)
 import time
-from utils import clear_screen, print_header, print_objectives, print_success, generic_cmd_handler, CURRENT_DIR
+from .utils import (
+    clear_screen,
+    print_header,
+    print_objectives,
+    print_success,
+    generic_cmd_handler,
+    CURRENT_DIR,
+)
+
 
 LOG_CONTENT = (
     "12:01:05 SYSTEM Starting service logon.\n"

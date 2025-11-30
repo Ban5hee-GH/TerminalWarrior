@@ -39,7 +39,7 @@ def main():
     other_ip_address = ".".join(ip_parts)
     ip_address = ".".join(ip_parts)
 
-    print("\nWelcome to the Linux CLI Flag Challenge level 1 (INTRO) made by (Ban5hee)\n")
+    print("\nWelcome to the Linux CLI Flag Challenge level 1 (INTRO) made by (Fr4nc0eur)\n")
     input("Press Enter to continue...")
     print()
 
